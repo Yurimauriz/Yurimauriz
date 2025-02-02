@@ -9,5 +9,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurimauriz&hide_progress=true)
 
 Formação:
-Técnico em informática no IFPI(Instituto Federal do Piaui)
+Técnico em informática no IFPI(Instituto Federal do Piaui) <br>
 Cursando Análise e Desenvolvimento de Sistemas no IFPI
