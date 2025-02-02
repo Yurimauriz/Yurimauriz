@@ -8,4 +8,6 @@
 ## Tecnologias que uso no meu dia a dia
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yurimauriz&hide_progress=true)
 
-Estudante de programação 👨🏽‍💻
+Formação:
+Técnico em informática no IFPI(Instituto Federal do Piaui)
+Cursando Análise e Desenvolvimento de Sistemas no IFPI
